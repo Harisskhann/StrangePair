@@ -1,0 +1,15 @@
+D:\StrangePair\StrangePair\StrangePair\bin\Debug\net6.0\StrangePair.exe
+D:\StrangePair\StrangePair\StrangePair\bin\Debug\net6.0\StrangePair.deps.json
+D:\StrangePair\StrangePair\StrangePair\bin\Debug\net6.0\StrangePair.runtimeconfig.json
+D:\StrangePair\StrangePair\StrangePair\bin\Debug\net6.0\StrangePair.dll
+D:\StrangePair\StrangePair\StrangePair\bin\Debug\net6.0\StrangePair.pdb
+D:\StrangePair\StrangePair\StrangePair\obj\Debug\net6.0\StrangePair.csproj.AssemblyReference.cache
+D:\StrangePair\StrangePair\StrangePair\obj\Debug\net6.0\StrangePair.GeneratedMSBuildEditorConfig.editorconfig
+D:\StrangePair\StrangePair\StrangePair\obj\Debug\net6.0\StrangePair.AssemblyInfoInputs.cache
+D:\StrangePair\StrangePair\StrangePair\obj\Debug\net6.0\StrangePair.AssemblyInfo.cs
+D:\StrangePair\StrangePair\StrangePair\obj\Debug\net6.0\StrangePair.csproj.CoreCompileInputs.cache
+D:\StrangePair\StrangePair\StrangePair\obj\Debug\net6.0\StrangePair.dll
+D:\StrangePair\StrangePair\StrangePair\obj\Debug\net6.0\refint\StrangePair.dll
+D:\StrangePair\StrangePair\StrangePair\obj\Debug\net6.0\StrangePair.pdb
+D:\StrangePair\StrangePair\StrangePair\obj\Debug\net6.0\StrangePair.genruntimeconfig.cache
+D:\StrangePair\StrangePair\StrangePair\obj\Debug\net6.0\ref\StrangePair.dll
